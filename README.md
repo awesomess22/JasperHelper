@@ -1,4 +1,4 @@
-# Jasperactive Helper Scripts for Tampermonkey
+# Jasperactive Helper Scripts
 
 This repository contains Tampermonkey userscripts designed to assist with tasks within the Jasperactive learning platform integrated with Microsoft Office web applications.
 
