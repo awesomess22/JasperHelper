@@ -8,7 +8,7 @@ This repository contains Tampermonkey userscripts designed to assist with tasks 
 
 ## 1. Jasperactive Highlight Text
 
-**Filename:** `jasperactive_highlight_text.user.js`
+**Filename:** `Jasperactive Highlight Text-1.0.user.js`
 
 ### Purpose
 
@@ -25,10 +25,10 @@ This script runs on the main Jasperactive task pane page (where instructions are
 ### Installation
 
 1.  Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension (or a compatible userscript manager).
-2.  Click on the `jasperactive_highlight_text.user.js` file in GitHub.
-3.  Click the "Raw" button.
-4.  Tampermonkey should automatically open a new tab asking if you want to install the script.
-5.  Click "Install".
+2.  Go to the **[Releases](https://github.com/awesomess22/JasperHelper/releases)** page of this GitHub repository.
+3.  Download the `Jasperactive Highlight Text-1.0.user.js` file from the latest release assets.
+4.  Tampermonkey should automatically detect the downloaded `.user.js` file and prompt you to install it. If not, open the Tampermonkey dashboard, go to the "Utilities" tab, and drag-and-drop the downloaded file onto the page or use the file import option.
+5.  Click "Install" when prompted by Tampermonkey.
 
 ### Usage
 
@@ -41,7 +41,7 @@ This script runs on the main Jasperactive task pane page (where instructions are
 
 ## 2. Jasperactive Highlight Click Boxes
 
-**Filename:** `jasperactive_highlight_click_boxes.user.js`
+**Filename:** `Jasperactive Highlight Click Boxes-1.0.user.js`
 
 ### Purpose
 
@@ -59,10 +59,10 @@ This script runs *inside* the Jasperactive simulation iframe and helps visualize
 ### Installation
 
 1.  Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension (or a compatible userscript manager).
-2.  Click on the `jasperactive_highlight_click_boxes.user.js` file in GitHub.
-3.  Click the "Raw" button.
-4.  Tampermonkey should automatically open a new tab asking if you want to install the script.
-5.  Click "Install".
+2.  Go to the **[Releases](https://github.com/awesomess22/JasperHelper/releases)** page of this GitHub repository.
+3.  Download the `Jasperactive Highlight Click Boxes-1.0.user.js` file from the latest release assets.
+4.  Tampermonkey should automatically detect the downloaded `.user.js` file and prompt you to install it. If not, open the Tampermonkey dashboard, go to the "Utilities" tab, and drag-and-drop the downloaded file onto the page or use the file import option.
+5.  Click "Install" when prompted by Tampermonkey.
 
 ### Usage
 
