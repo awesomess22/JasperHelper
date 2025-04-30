@@ -8,7 +8,7 @@ This repository contains Tampermonkey userscripts designed to assist with tasks 
 
 ## 1. Jasperactive Highlight Text
 
-**Filename:** `jasperactive_highlight_text.user.js` (Based on v1.12 - Trim Always On)
+**Filename:** `jasperactive_highlight_text.user.js`
 
 ### Purpose
 
@@ -41,7 +41,7 @@ This script runs on the main Jasperactive task pane page (where instructions are
 
 ## 2. Jasperactive Highlight Click Boxes
 
-**Filename:** `jasperactive_highlight_click_boxes.user.js` (Based on v1.11/v1.12 logic)
+**Filename:** `jasperactive_highlight_click_boxes.user.js`
 
 ### Purpose
 
